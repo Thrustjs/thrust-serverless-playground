@@ -1,0 +1,16 @@
+{
+    "serverless-cli": {
+        "environments": {
+            "dev": {
+                "secret": "shhhThisIsTheSecret",
+                "host": "http://localhost:8778"
+            },
+            "hml": {
+                "host": "serverless-hml.softbox.com.br"
+            },
+            "prod": {
+                "host": "serverless.softbox.com.br"
+            }
+        }
+    }
+}

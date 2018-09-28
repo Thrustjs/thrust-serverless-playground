@@ -1,0 +1,10 @@
+{
+  "name": "thrust-serverless-app",
+  "cli-extensions": [
+    "serverless-cli"
+  ],
+  "dependencies": [
+    "serverless-cli",
+    "http-client"
+  ]
+}

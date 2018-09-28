@@ -1,0 +1,6 @@
+{
+  "cacheScript": true,
+  "serverless": {
+    "secret": "shhhThisIsTheSecret"
+  }
+}
